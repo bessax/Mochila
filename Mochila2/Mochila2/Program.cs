@@ -1,11 +1,3 @@
-﻿/*
-  Curso: Mestrado em Pesquisa Operacional e Inteligência Computacional
-  Disciplina: Algoritmos e Heurísticas
-  Professor: Dalessandro Viana
-  Desenvolvimento: André Bessa
-                   Denilton Macário
- 
- */
 
 using System;
 using System.IO;
